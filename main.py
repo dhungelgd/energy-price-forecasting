@@ -1,6 +1,3 @@
-from src.package.beispiel_a import beispiel_a
+import pandas as pd
 
-if __name__ == "__main__":
-    beispiel_a()
-
-
+df = pd.DataFrame()
